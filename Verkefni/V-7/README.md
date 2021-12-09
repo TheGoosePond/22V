@@ -7,6 +7,4 @@ Nemendur geta:
 * [Verklýsing](Verkefni_7.pdf)
 * [Tölvuleikjasagan](https://vefgrunnur.github.io/tolvuleikir/)
 
-
-
 #### Einkunn verður birt í Innu
