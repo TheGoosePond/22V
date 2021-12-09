@@ -1,57 +1,47 @@
 # Skipulag vefsíðu - webpage layout
 
-### Grid skipulag með _grid-area_
+### HTML 5 ritháttur (_semantic_)
 
-```HTML
+* [Semantic HTML5 Elements](https://www.freecodecamp.org/news/semantic-html5-elements/)
+* [Moz:lla glósur](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.item1 { grid-area: header; }
-.item2 { grid-area: menu; }
-.item3 { grid-area: main; }
-.item4 { grid-area: right; }
-.item5 { grid-area: footer; }
+# Svegjanleg hönnun
 
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    'header header header header header header'
-    'menu   main   main   main   right  right'
-    'menu   footer footer footer footer footer';
-  grid-gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;
+### Viðmið (_Breakpoints_) - "_Mobile up_"
+
+```CSS
+
+body {
+background-color: blue;
+color: white;
 }
 
-.grid-container > div {
-  background-color: rgba(255, 255, 255, 0.8);
-  text-align: center;
-  padding: 20px 0;
-  font-size: 30px;
+@media only screen and (min-width: 37.5em) {  /* skjáir (screen) sem eru stærri en 37.5em (600px) */
+  body {
+    background-color: lightblue;
+  }
 }
-</style>
-</head>
-<body>
 
-<h1>Grid Layout</h1>
+@media only screen and (min-width: 48em) {  /* skjáir (screen) sem eru stærri en 48em (768px) */
+  body {
+    background-color: green;
+  }
+}
 
-<p>This grid layout contains six columns and three rows:</p>
+@media only screen and (min-width: 60em) {  /* skjáir (screen) sem eru stærri en 60em (960px) */
+  body {
+    background-color: red;
+	max-width: 60em;
+	margin: 0 auto;
+	border: 2px solid yellow;
+  }
+}
 
-<div class="grid-container">
-  <div class="item1">Header</div>
-  <div class="item2">Menu</div>
-  <div class="item3">Main</div>  
-  <div class="item4">Right</div>
-  <div class="item5">Footer</div>
-</div>
+``` 
 
-</body>
-</html>
+#### Skipulag með CSS grindakerfi
 
-
-```
-
-
-
+* https://gridbyexample.com/
+* [CSSGRID.IO](https://cssgrid.io/)
+* [Codrops - CSS References](https://tympanus.net/codrops/css_reference/grid/)
+* [Learn CSS Grid](https://scrimba.com/g/gR8PTE)
