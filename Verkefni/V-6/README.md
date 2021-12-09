@@ -1,11 +1,13 @@
-# Myndvinnsla
-
-![Octocat](github-octocat.svg)
+# Leturfræði
 
 ### Markmið:
-Nemendur eiga að geta unnið með myndir þannig að hægt sé að birta þær í vafra. Einnig eiga nemendur að geta sett inn kvikmynd (_video_) og hljóðskrá á vefsíðu sem hægt er að spila í vafranum. Einnig eiga nemendur að setja inn staðsetningarkort á vefsíðuna. 
+Nemendur geta:
+* Unnið með mismunandi leturgerðir og náð í leturtýpur á [Google Fonts](https://fonts.google.com/). 
+* Nemendur nota leturgerð að eigin vali til að auka áhrif skilaboða ásamt viðeigandi litanotkun. 
 
-* [Verkefnalýsing](Verkefni_6.pdf)
-* [Fylgigögn](https://github.com/vefgrunnur/21H/tree/main/S%C3%BDnid%C3%A6mi/V-6/images)
+* [Verklýsing](Verkefni_6.pdf)
+* [Fylgigögn](https://github.com/vefgrunnur/22V/tree/main/S%C3%BDnid%C3%A6mi/V-6)
+
+Bjargir: [Listi yfir málshætti](https://www.ms.is/okkar-mal/islenskuatak/listi-yfir-malshaetti)
 
 #### Einkunn verður birt í Innu
