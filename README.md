@@ -1,4 +1,4 @@
-#### [Námsáætlun](VEFÞ1VG05AU_H21-2.pdf) | [Bjargir](https://github.com/vefgrunnur/21H/wiki)
+#### [Námsáætlun](VEFÞ1VG05AU_V22-1.pdf) | [Bjargir](https://github.com/vefgrunnur/22V/wiki)
 
 <img src="https://github.com/vefgrunnur/22V/blob/main/S%C3%BDnid%C3%A6mi/img/22VGA-logo.jpg" width="180" height="180"/>
   
